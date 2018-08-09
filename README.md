@@ -1,6 +1,7 @@
 # TheCastle
 if you have 70+ LNK errors change solution platform to x86!!
-Game engine and unfinished RPG. Uses SFML graphics library.
+
+Game engine on C++ and unfinished RPG, uses SFML graphics library.
 
  How to play:
  1. Press TAB to hide/show quests
