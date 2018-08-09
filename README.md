@@ -1,4 +1,5 @@
 # TheCastle
+if you have 70+ LNK errors change solution platform to x86!!
 Game engine and unfinished RPG. Uses SFML graphics library.
  Input:
  1. Press TAB to hide/show quests
