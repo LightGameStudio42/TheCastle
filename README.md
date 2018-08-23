@@ -1,4 +1,5 @@
 # TheCastle
+What is it? -https://www.youtube.com/watch?v=e1XMS5o3ejs
 if you have 70+ LNK errors change solution platform to x86!!
 
 Game engine on C++ and unfinished RPG, uses SFML graphics library.
